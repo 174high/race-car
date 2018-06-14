@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/racecar-ws/install
+
+Name: racebot_description
+Description: Description of racebot_description
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ubuntu/racecar-ws/install/lib 
+Requires: 
